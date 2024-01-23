@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "ddadc084ab96826f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccca2664c71745f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9478ed7d661ec365",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a14305150783a777",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae94089a7b31acdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e654aee203a0465",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "051ceb2d2991b753",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8dfbfe220c61e4ca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "bc470c039ef2da26",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5f5238a811c7c0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f8bc4547efbecf0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Built-in Modules.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "235852430819810b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Built-in Modules.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "37f51a07052fc1f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "d48dd26d83969102",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Built-in Modules.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9478ed7d661ec365",
+  "lastOpenFiles": [
+    "runtime environment.md",
+    "Callback Pattern.md",
+    "Built-in Modules.md",
+    "node js.md",
+    "Pasted image 20230821220733.png",
+    "Path Module.md",
+    "Pasted image 20230821220535.png",
+    "Pasted image 20230821220010.png",
+    "Pasted image 20230821215913.png",
+    "Pasted image 20230821215752.png",
+    "Pasted image 20230821215614.png",
+    "Pasted image 20230821215210.png",
+    "Pasted image 20230821215053.png",
+    "Pasted image 20230821214840.png",
+    "module.md",
+    "Module Caching.md",
+    "Pasted image 20230821214208.png",
+    "Module Wrapper.md",
+    "Module.Exports vs Exports.md",
+    "Json data.md",
+    "ES Modules.md",
+    "readline-sync.md",
+    "Import Export Patterns type.md",
+    "common JS.md",
+    "Untitled 1.canvas",
+    "npm.md",
+    "Destructuring.md",
+    "Fs module.md",
+    "df.md",
+    "rg.md",
+    "Local modules.md",
+    "anfas.md",
+    "sfd.md",
+    "nkzWYr2jBAA=/db/011832.ldb",
+    "nkzWYr2jBAA=/db/010638.ldb",
+    "nkzWYr2jBAA=/db/011767.ldb",
+    "nkzWYr2jBAA=/db/011134.ldb",
+    "nkzWYr2jBAA=/db/010640.ldb",
+    "nkzWYr2jBAA=/db/011750.ldb",
+    "nkzWYr2jBAA=/db/011752.ldb",
+    "nkzWYr2jBAA=/db/011843.ldb",
+    "nkzWYr2jBAA=/db/011100.ldb",
+    "nkzWYr2jBAA=/db/011025.ldb",
+    "IIFE.md",
+    "type of function.md",
+    "Higher-Order Functions.md",
+    "Currying.md",
+    "Untitled.canvas",
+    "Untitled 2.canvas",
+    "can.canvas"
+  ]
+}
