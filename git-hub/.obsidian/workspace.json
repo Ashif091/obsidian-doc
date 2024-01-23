@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "289467dbacf03241",
+    "id": "866c927fe52c0a8e",
     "type": "split",
     "children": [
       {
-        "id": "f8037bffe2453d6a",
+        "id": "01baeed0ecf44c96",
         "type": "tabs",
         "children": [
           {
-            "id": "b676ccae28a8c6b4",
+            "id": "88d922c52b08e124",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2778 Sum of Squares of Special Elements..md",
+                "file": "git merge.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "27d95b0a2a616878",
+    "id": "5b92d58596fa4675",
     "type": "split",
     "children": [
       {
-        "id": "cb95c2478be92ac6",
+        "id": "2e106b139b251bd2",
         "type": "tabs",
         "children": [
           {
-            "id": "51dd853901e2fec7",
+            "id": "8ba442c4b27648e7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "644c0e11a81a87cd",
+            "id": "26b465daca4024e5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "33d09ca6acfb7bcc",
+            "id": "1fe90d720038faac",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "910df61720266cf2",
+    "id": "d0c45823a53648df",
     "type": "split",
     "children": [
       {
-        "id": "029207c791e6e4a4",
+        "id": "c9eb250b3197e9c8",
         "type": "tabs",
         "children": [
           {
-            "id": "9b05ea5f3b4cc040",
+            "id": "57d72b8ac86f5f38",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2778 Sum of Squares of Special Elements..md",
+                "file": "git merge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +98,19 @@
             }
           },
           {
-            "id": "037dc9a6893a8a55",
+            "id": "9d89fc00492713dc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2778 Sum of Squares of Special Elements..md",
+                "file": "git merge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "bd388a761c03c845",
+            "id": "d8f6a9a8a79a0c44",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +121,12 @@
             }
           },
           {
-            "id": "91c27caea732dacb",
+            "id": "15ba13271671ce92",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2778 Sum of Squares of Special Elements..md"
+                "file": "git merge.md"
               }
             }
           }
@@ -146,8 +147,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b676ccae28a8c6b4",
+  "active": "88d922c52b08e124",
   "lastOpenFiles": [
-    "2778 Sum of Squares of Special Elements..md"
+    "Topics.md",
+    "git pull.md",
+    "git branch.md",
+    "git merge.md",
+    "git tags.md",
+    "git diff.md",
+    "git commit.md",
+    "Pasted image 20240123140955.png",
+    "git add.md",
+    "Untitled.canvas",
+    "git Init.md",
+    "Intro.md",
+    "Pasted image 20240123125610.png"
   ]
 }
