@@ -7,4 +7,8 @@
 6. [[git branch]]
 7. [[git merge]]
 8. [[git pull]]
-9. 
+9. [[git rebase]]
+10. [[git cherry]]
+11. [[git revert]]
+12. [[git stash]]
+13. 
