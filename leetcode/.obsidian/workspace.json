@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "23be6dc99fec082c",
+    "id": "289467dbacf03241",
     "type": "split",
     "children": [
       {
-        "id": "3464120441379dce",
+        "id": "f8037bffe2453d6a",
         "type": "tabs",
         "children": [
           {
-            "id": "ed58b28c8984a937",
+            "id": "b676ccae28a8c6b4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2778 Sum of Squares of Special Elements..md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "93541e70387b75f1",
+    "id": "27d95b0a2a616878",
     "type": "split",
     "children": [
       {
-        "id": "73d3eb61e724a293",
+        "id": "cb95c2478be92ac6",
         "type": "tabs",
         "children": [
           {
-            "id": "d8825e3ef6a9b290",
+            "id": "51dd853901e2fec7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "0b096f06740897dd",
+            "id": "644c0e11a81a87cd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "69093292f415f4cc",
+            "id": "33d09ca6acfb7bcc",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -65,22 +69,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
-    "id": "d2c8305a163aaaf0",
+    "id": "910df61720266cf2",
     "type": "split",
     "children": [
       {
-        "id": "3b0c9a828feaefe7",
+        "id": "029207c791e6e4a4",
         "type": "tabs",
         "children": [
           {
-            "id": "e6b7e5b54c276419",
+            "id": "9b05ea5f3b4cc040",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2778 Sum of Squares of Special Elements..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +98,19 @@
             }
           },
           {
-            "id": "b354d46a6e59e440",
+            "id": "037dc9a6893a8a55",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2778 Sum of Squares of Special Elements..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "02dce37b68956142",
+            "id": "bd388a761c03c845",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,12 +121,12 @@
             }
           },
           {
-            "id": "55706bf0f0d79a0f",
+            "id": "91c27caea732dacb",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "2778 Sum of Squares of Special Elements..md"
               }
             }
           }
@@ -140,9 +147,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8825e3ef6a9b290",
+  "active": "b676ccae28a8c6b4",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "Untitled.md"
+    "2778 Sum of Squares of Special Elements..md"
   ]
 }
