@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f8037bffe2453d6a",
+        "id": "54c035dbaf1c6688",
         "type": "tabs",
         "children": [
           {
-            "id": "b676ccae28a8c6b4",
+            "id": "f5df8821a779ddfe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2778 Sum of Squares of Special Elements..md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2778 Sum of Squares of Special Elements..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2778 Sum of Squares of Special Elements..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2778 Sum of Squares of Special Elements..md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b676ccae28a8c6b4",
+  "active": "f5df8821a779ddfe",
   "lastOpenFiles": [
-    "2778 Sum of Squares of Special Elements..md"
+    "2778 Sum of Squares of Special Elements..md",
+    "2788. Split Strings by Separator.md"
   ]
 }
