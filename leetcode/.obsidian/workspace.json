@@ -11,8 +11,12 @@
             "id": "f5df8821a779ddfe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2810. Faulty Keyboard.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2810. Faulty Keyboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2810. Faulty Keyboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2810. Faulty Keyboard.md"
+              }
             }
           }
         ]
@@ -140,7 +148,8 @@
   },
   "active": "f5df8821a779ddfe",
   "lastOpenFiles": [
-    "2778 Sum of Squares of Special Elements..md",
-    "2788. Split Strings by Separator.md"
+    "2788. Split Strings by Separator.md",
+    "2810. Faulty Keyboard.md",
+    "2778 Sum of Squares of Special Elements..md"
   ]
 }
