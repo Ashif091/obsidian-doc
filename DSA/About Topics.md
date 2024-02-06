@@ -4,7 +4,7 @@
 4. [[Big O notation]]
 5. [[Math algorithms]]
 6. [[Sort]]
-7. [[Search]]
+7. [[Search Algorithms]]
 8. [[Misc. algorithms and problem solving ]]
 
-
+0-00

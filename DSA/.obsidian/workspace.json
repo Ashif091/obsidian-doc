@@ -8,30 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2e97c4e58739c7c9",
+            "id": "c5e919f811aaacd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm.md",
+                "file": "Search Algorithms.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5f73c4033fe0f5c7",
+            "id": "890211b0c3c466dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Big O notation.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {},
+              "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,16 +133,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Algorithm.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -158,14 +153,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e97c4e58739c7c9",
+  "active": "890211b0c3c466dc",
   "lastOpenFiles": [
+    "Recursive binary search.md",
+    "Search Algorithms.md",
+    "Binary search.md",
+    "Recursive Fibonacci Sequence.md",
+    "Linear search.md",
+    "Factorial of a number.md",
+    "Fibonacci sequence.md",
+    "Recursion.md",
+    "Power of two.md",
+    "Prime number.md",
+    "Array - Big-O.md",
+    "Objects - Big-O.md",
     "Big O notation.md",
-    "Algorithm.md",
-    "Big-O Notation.md",
+    "Math algorithms.md",
     "About Topics.md",
+    "Time & Space complexity.md",
+    "Measuring performance.md",
+    "Algorithm.md",
+    "Search.md",
+    "Recursive Factorial of a Number.md",
+    "Pasted image 20240206091323.png",
+    "Pasted image 20240203160731.png",
+    "Pasted image 20240131142740.png",
+    "Pasted image 20240131092241.png",
+    "Pasted image 20240131091954.png",
     "Pasted image 20240130214941.png",
     "Pasted image 20240130213317.png",
-    "Pasted image 20240130212607.png"
+    "Pasted image 20240130212607.png",
+    "Big-O Notation.md"
   ]
 }

@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c76f1ddbefba662c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Event Listeners.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Event Listeners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Event Listeners.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,8 +152,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9478ed7d661ec365",
+  "active": "c76f1ddbefba662c",
   "lastOpenFiles": [
+    "Inheritance.md",
+    "Event Listeners.md",
     "methods.md",
     "shift().md",
     "Higher-Order Functions.md",
@@ -184,7 +191,6 @@
     "rg.md",
     "Local modules.md",
     "anfas.md",
-    "sfd.md",
     "nkzWYr2jBAA=/db/011832.ldb",
     "nkzWYr2jBAA=/db/010638.ldb",
     "nkzWYr2jBAA=/db/011767.ldb",
@@ -195,7 +201,6 @@
     "nkzWYr2jBAA=/db/011843.ldb",
     "nkzWYr2jBAA=/db/011100.ldb",
     "nkzWYr2jBAA=/db/011025.ldb",
-    "IIFE.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "can.canvas"
