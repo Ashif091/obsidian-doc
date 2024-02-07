@@ -23,12 +23,15 @@
             "id": "c76f1ddbefba662c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "promises.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Event Listeners.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Event Listeners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Event Listeners.md"
+              }
             }
           }
         ]
@@ -152,11 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c76f1ddbefba662c",
+  "active": "9478ed7d661ec365",
   "lastOpenFiles": [
+    "promises.md",
+    "methods.md",
     "Inheritance.md",
     "Event Listeners.md",
-    "methods.md",
     "shift().md",
     "Higher-Order Functions.md",
     "runtime environment.md",
@@ -190,7 +198,6 @@
     "df.md",
     "rg.md",
     "Local modules.md",
-    "anfas.md",
     "nkzWYr2jBAA=/db/011832.ldb",
     "nkzWYr2jBAA=/db/010638.ldb",
     "nkzWYr2jBAA=/db/011767.ldb",
