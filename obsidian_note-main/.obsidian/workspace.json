@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Event Listeners.md",
+                "file": "methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Event Listeners.md",
+                "file": "methods.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Event Listeners.md",
+                "file": "methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Event Listeners.md"
+                "file": "methods.md"
               }
             }
           }
@@ -161,10 +161,12 @@
   },
   "active": "9478ed7d661ec365",
   "lastOpenFiles": [
-    "promises.md",
+    "Object.assign().md",
     "methods.md",
-    "Inheritance.md",
+    "Js.md",
     "Event Listeners.md",
+    "promises.md",
+    "Inheritance.md",
     "shift().md",
     "Higher-Order Functions.md",
     "runtime environment.md",
@@ -196,8 +198,6 @@
     "Destructuring.md",
     "Fs module.md",
     "df.md",
-    "rg.md",
-    "Local modules.md",
     "nkzWYr2jBAA=/db/011832.ldb",
     "nkzWYr2jBAA=/db/010638.ldb",
     "nkzWYr2jBAA=/db/011767.ldb",

@@ -8,10 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "0-00",
+      "query": "Data-Structures",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 2094193
       }
     },
     {
@@ -41,6 +41,41 @@
         "a": 1,
         "rgb": 6084269
       }
+    },
+    {
+      "query": "linked",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "sort ",
+      "color": {
+        "a": 1,
+        "rgb": 15597823
+      }
+    },
+    {
+      "query": "0-00",
+      "color": {
+        "a": 1,
+        "rgb": 15728828
+      }
+    },
+    {
+      "query": "Queue",
+      "color": {
+        "a": 1,
+        "rgb": 9781625
+      }
+    },
+    {
+      "query": "Hash ",
+      "color": {
+        "a": 1,
+        "rgb": 11419039
+      }
     }
   ],
   "collapse-display": true,
@@ -53,6 +88,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9999999999999898,
-  "close": false
+  "scale": 0.8101206259888819,
+  "close": true
 }
