@@ -1,0 +1,7 @@
+[[PRIMERY KEY]]
+[[Create]]
+[[Update]]
+[[Alter]]
+[[Insert]]
+[[Remove]]
+[[Join]]

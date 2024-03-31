@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "5a632c01cf85fc58",
+    "id": "980ec4148b219888",
     "type": "split",
     "children": [
       {
-        "id": "b4c0e73e2b653669",
+        "id": "648f2c2af5024157",
         "type": "tabs",
         "children": [
           {
-            "id": "890211b0c3c466dc",
+            "id": "451b96751caeb707",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -16,22 +16,57 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "f92e902a103ff4b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Insert.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cef32914ceb4759a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Join.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "642f02a6606255b6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "acbba14daff14452",
+    "id": "e4b15b310aa684ff",
     "type": "split",
     "children": [
       {
-        "id": "48cc87533280d478",
+        "id": "fb1976f350edd3dc",
         "type": "tabs",
         "children": [
           {
-            "id": "02978c4771b96da5",
+            "id": "9f538c00c64e4224",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -41,7 +76,7 @@
             }
           },
           {
-            "id": "44c06bbdedc79a27",
+            "id": "8479e4aa7b76f112",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,7 +91,7 @@
             }
           },
           {
-            "id": "5a2047cd5a4a30fc",
+            "id": "8c3716faaf2c1bb3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -67,23 +102,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "671fcd6c99aea873",
+    "id": "6d9b9481055dd13f",
     "type": "split",
     "children": [
       {
-        "id": "6f9d0e816128d566",
+        "id": "f9e5f3a2194a52e3",
         "type": "tabs",
         "children": [
           {
-            "id": "79f13b6214deb3a4",
+            "id": "3eb249b47fba9f0a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Join.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,18 +130,19 @@
             }
           },
           {
-            "id": "f38f5d8398a29840",
+            "id": "f7b58c3d81502e83",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Join.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d9069a8b9cfaccc6",
+            "id": "577b9190f8f0a6b1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -117,68 +153,44 @@
             }
           },
           {
-            "id": "7db4e41b215f5ad9",
+            "id": "bc7650ae6d9aaffa",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Join.md"
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "graph:Open graph view": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "890211b0c3c466dc",
+  "active": "642f02a6606255b6",
   "lastOpenFiles": [
-    "Heap.md",
-    "Trie.md",
-    "Data-Structures.md",
-    "Graph.md",
-    "Depth First Search (DFS).md",
-    "Tree Traversal.md",
-    "Binary Search Tree (BST).md",
-    "Tree.md",
-    "Adjacency List of a Graph.md",
-    "Linked List Insert.md",
-    "Linked List.md",
-    "Linked List Remove.md",
-    "Adjacency Matrix of a Graph.md",
-    "BST Validation.md",
-    "Breadth First Search (BFS).md",
-    "Preorder.md",
-    "Binary Search Tree Search.md",
-    "Binary Search Tree Insert.md",
-    "Binary Search Tree Class.md",
-    "Pasted image 20240308115213.png",
-    "Pasted image 20240308115041.png",
-    "Pasted image 20240308110854.png",
-    "Pasted image 20240308110248.png",
-    "Pasted image 20240308110245.png",
-    "Pasted image 20240308110242.png",
-    "Pasted image 20240308110239.png",
-    "Binary Search Tree Delete.md",
-    "Tree Min & Max.md",
-    "Queue.md",
-    "Stack.md",
-    "Insertion sort.md",
-    "Sorting Algorithms.md",
-    "Pasted image 20240306135108.png",
-    "Pasted image 20240306134929.png",
-    "Pasted image 20240306134456.png",
-    "Postorder.md"
+    "SQL.md",
+    "Join.md",
+    "Insert.md",
+    "Remove.md",
+    "Update.md",
+    "Pasted image 20240317092556.png",
+    "Update using In.md",
+    "Pasted image 20240316173113.png",
+    "Update using  CASE.md",
+    "PRIMERY KEY.md",
+    "Welcome.md"
   ]
 }

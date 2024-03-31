@@ -76,6 +76,20 @@
         "a": 1,
         "rgb": 11419039
       }
+    },
+    {
+      "query": "Tree",
+      "color": {
+        "a": 1,
+        "rgb": 12449166
+      }
+    },
+    {
+      "query": "graph",
+      "color": {
+        "a": 1,
+        "rgb": 15662848
+      }
     }
   ],
   "collapse-display": true,
@@ -83,11 +97,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
+  "collapse-forces": false,
+  "centerStrength": 0.360753563150367,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8101206259888819,
+  "scale": 0.06044200002085142,
   "close": true
 }

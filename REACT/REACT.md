@@ -1,0 +1,3 @@
+- React is an open-source JavaScript library primarily used for building user interfaces (UIs) for web applications. It was developed by Facebook and released in 2013. React is known for its component-based architecture, which allows developers to create reusable UI elements and compose them to build complex user interfaces.
+
+- React with [[TypeScript]] combines the power of React for building user interfaces with the type safety and static analysis capabilities of TypeScript. TypeScript is a superset of JavaScript that adds optional static typing to the language, allowing developers to catch type-related errors at compile-time rather than at runtime.

@@ -11,12 +11,8 @@
             "id": "9478ed7d661ec365",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "methods.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "methods.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "methods.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -161,11 +153,12 @@
   },
   "active": "9478ed7d661ec365",
   "lastOpenFiles": [
-    "Object.assign().md",
+    "slice().md",
     "methods.md",
+    "promises.md",
+    "Object.assign().md",
     "Js.md",
     "Event Listeners.md",
-    "promises.md",
     "Inheritance.md",
     "shift().md",
     "Higher-Order Functions.md",
@@ -197,7 +190,6 @@
     "npm.md",
     "Destructuring.md",
     "Fs module.md",
-    "df.md",
     "nkzWYr2jBAA=/db/011832.ldb",
     "nkzWYr2jBAA=/db/010638.ldb",
     "nkzWYr2jBAA=/db/011767.ldb",

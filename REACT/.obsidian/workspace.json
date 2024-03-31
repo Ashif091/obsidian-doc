@@ -1,37 +1,48 @@
 {
   "main": {
-    "id": "5a632c01cf85fc58",
+    "id": "f4f9ffa856512158",
     "type": "split",
     "children": [
       {
-        "id": "b4c0e73e2b653669",
+        "id": "cb553e182a9d3d4b",
         "type": "tabs",
         "children": [
           {
-            "id": "890211b0c3c466dc",
+            "id": "607091be6111bf11",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
+              "type": "markdown",
+              "state": {
+                "file": "TypeScript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd04e5b45376651a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "acbba14daff14452",
+    "id": "9070a285762b0470",
     "type": "split",
     "children": [
       {
-        "id": "48cc87533280d478",
+        "id": "951e4dbf7f3d3480",
         "type": "tabs",
         "children": [
           {
-            "id": "02978c4771b96da5",
+            "id": "f6eb647ae6559e5f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -41,7 +52,7 @@
             }
           },
           {
-            "id": "44c06bbdedc79a27",
+            "id": "dc73368ebd8f43cc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,7 +67,7 @@
             }
           },
           {
-            "id": "5a2047cd5a4a30fc",
+            "id": "4649f0cc6c1105bd",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -71,19 +82,20 @@
     "collapsed": true
   },
   "right": {
-    "id": "671fcd6c99aea873",
+    "id": "490578a74665a65c",
     "type": "split",
     "children": [
       {
-        "id": "6f9d0e816128d566",
+        "id": "12cc17f9932b3589",
         "type": "tabs",
         "children": [
           {
-            "id": "79f13b6214deb3a4",
+            "id": "09e6a92ec8764484",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TypeScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,18 +107,19 @@
             }
           },
           {
-            "id": "f38f5d8398a29840",
+            "id": "f9a67e4bf44b4fec",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TypeScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d9069a8b9cfaccc6",
+            "id": "a304ab08fd92d6d7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -117,68 +130,39 @@
             }
           },
           {
-            "id": "7db4e41b215f5ad9",
+            "id": "b6eab81789862e56",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TypeScript.md"
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "graph:Open graph view": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "890211b0c3c466dc",
+  "active": "dd04e5b45376651a",
   "lastOpenFiles": [
-    "Heap.md",
-    "Trie.md",
-    "Data-Structures.md",
-    "Graph.md",
-    "Depth First Search (DFS).md",
-    "Tree Traversal.md",
-    "Binary Search Tree (BST).md",
-    "Tree.md",
-    "Adjacency List of a Graph.md",
-    "Linked List Insert.md",
-    "Linked List.md",
-    "Linked List Remove.md",
-    "Adjacency Matrix of a Graph.md",
-    "BST Validation.md",
-    "Breadth First Search (BFS).md",
-    "Preorder.md",
-    "Binary Search Tree Search.md",
-    "Binary Search Tree Insert.md",
-    "Binary Search Tree Class.md",
-    "Pasted image 20240308115213.png",
-    "Pasted image 20240308115041.png",
-    "Pasted image 20240308110854.png",
-    "Pasted image 20240308110248.png",
-    "Pasted image 20240308110245.png",
-    "Pasted image 20240308110242.png",
-    "Pasted image 20240308110239.png",
-    "Binary Search Tree Delete.md",
-    "Tree Min & Max.md",
-    "Queue.md",
-    "Stack.md",
-    "Insertion sort.md",
-    "Sorting Algorithms.md",
-    "Pasted image 20240306135108.png",
-    "Pasted image 20240306134929.png",
-    "Pasted image 20240306134456.png",
-    "Postorder.md"
+    "TypeScript.md",
+    "Pasted image 20240330215225.png",
+    "Pasted image 20240330215158.png",
+    "Pasted image 20240330171504.png",
+    "REACT.md",
+    "Welcome.md"
   ]
 }
