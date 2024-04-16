@@ -1,7 +1,5 @@
   <h1><img src="https://forum.obsidian.md/uploads/default/original/2X/b/b0c1ac65c3b9c3c94389bbfa5466dae781e06d85.png" width="100"  alt="Obsidian" /> Obsidian Notes </h1>
 
-  Certainly! Here's a description for your README file:
-
 ---
 
 ## Repository Description
