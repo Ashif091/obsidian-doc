@@ -24,7 +24,7 @@ Welcome to the repository! This is a comprehensive collection of important point
 To get started, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/Ashif091/obsidian-doc.git
 ```
 
 Explore the directories and start learning or contributing!
