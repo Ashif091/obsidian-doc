@@ -164,6 +164,29 @@ class Stack {
       return this.head.value;
     }
   }
+
+
+//here is the reverse method
+reverse() {
+    const reverseUtil = (node) => {
+        if (node.next === null) {
+            this.head = node; // Update head to the last node in original order
+            return node;
+        }
+
+        const last = reverseUtil(node.next);
+        last.next = node;
+        node.next = null;
+        return node;
+    };
+
+    if (!this.ifEmpty()) {
+        reverseUtil(this.head);
+    }
+}
+
+
+
 }
 
 ```
