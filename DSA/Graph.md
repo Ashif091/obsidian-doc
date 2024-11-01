@@ -97,3 +97,80 @@ graph.removeVertex("A");
 graph.display();
 
 ```
+
+
+## BFS and DFS
+
+```js
+function bfs(graph, startNode) {
+  let queue = [startNode];
+  let visited = new Set();
+
+  while (queue.length > 0) {
+    let currentNode = queue.shift();
+
+    if (!visited.has(currentNode)) {
+      console.log(currentNode);
+      visited.add(currentNode);
+
+      graph[currentNode].forEach(neighbor => {
+        if (!visited.has(neighbor)) {
+          queue.push(neighbor);
+        }
+      });
+    }
+  }
+}
+
+function dfs(graph, startNode, visited = new Set()) {
+  if (visited.has(startNode)) return;
+
+  console.log(startNode);
+  visited.add(startNode);
+
+  graph[startNode].forEach(neighbor => {
+    dfs(graph, neighbor, visited);
+  });
+}
+```
+
+
+## Cycle Detection in Undirected Graphs
+
+```js
+function isCyclicUndirected(graph) {
+  const visited = new Set();
+
+  function dfs(v, parent) {
+    visited.add(v);
+
+    for (const neighbor of graph[v]) {
+      if (!visited.has(neighbor)) {
+        if (dfs(neighbor, v)) return true;
+      } else if (neighbor !== parent) {
+        return true;
+      }
+    }
+
+    return false;
+  }
+
+  for (const vertex in graph) {
+    if (!visited.has(vertex)) {
+      if (dfs(vertex, null)) return true;
+    }
+  }
+
+  return false;
+}
+
+const graphUndirected = {
+  0: [1, 2],
+  1: [0, 2],
+  2: [0, 1, 3],
+  3: [2]
+};
+
+console.log(isCyclicUndirected(graphUndirected)); // Output: true
+
+```

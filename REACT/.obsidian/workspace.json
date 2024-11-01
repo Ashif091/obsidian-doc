@@ -8,27 +8,73 @@
         "type": "tabs",
         "children": [
           {
-            "id": "607091be6111bf11",
+            "id": "4623d642ce63fe17",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "bf21881cc041a6e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript.md",
+                "file": "useReducer.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dd04e5b45376651a",
+            "id": "1c99fa8bb96785e7",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "useMemo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "448479880b818d40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Set Up➡️.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "272b3528e9536683",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Using terms➡️.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2197b2d2c761ba1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -78,8 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "490578a74665a65c",
@@ -95,7 +140,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +156,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +177,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TypeScript.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -156,13 +197,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd04e5b45376651a",
+  "active": "d2197b2d2c761ba1",
   "lastOpenFiles": [
-    "TypeScript.md",
-    "Pasted image 20240330215225.png",
-    "Pasted image 20240330215158.png",
-    "Pasted image 20240330171504.png",
+    "Using terms➡️.md",
+    "Hooks.md",
     "REACT.md",
+    "Set Up➡️.md",
+    "useReducer.md",
+    "useMemo.md",
+    "State Hooks ➡️.md",
+    "useCallback 🆚 useMemo.md",
+    "context API.md",
+    "Create a react project➡️.md",
+    "Pasted image 20240418143213.png",
+    "useCallback.md",
+    "Pasted image 20240418133722.png",
+    "Pasted image 20240418124856.png",
+    "desktop.ini",
+    "Pasted image 20240403095729.png",
+    "Pasted image 20240402231912.png",
+    "Pasted image 20240402230234.png",
+    "Pasted image 20240402214514.png",
+    "Pasted image 20240402214026.png",
+    "Pasted image 20240402213815.png",
+    "Pasted image 20240402211126.png",
+    "TypeScript.md",
+    "().md",
     "Welcome.md"
   ]
 }

@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "49693a9bf356ddd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c27c8a4a65b82695",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f0d5cfaec2cd0bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Set-Up.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80758dccafff6a02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Set-Up.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d40726f03017f807",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c42e28a0f8afd0d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c405c2e041f40131",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab0a14d717944b6f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4a608b73b5bd8eb2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42f905938778f7b9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a5e4857414b61d9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "35511bb8a35d19ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d0a00ccfc9b73f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Set-Up.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3c6a48e3114b27d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Set-Up.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "773e1108242774ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "929ad2a396501f50",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Set-Up.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "80758dccafff6a02",
+  "lastOpenFiles": [
+    "Clean Architecture.canvas",
+    "Set-Up.md",
+    "next.config.js.md",
+    "Routing Conventions.md",
+    "Next.js.md",
+    "Routing Metadata.md",
+    "Nested Dynamic Routes.md",
+    "React Server Components (RSC).md",
+    "Handling Errors in Nested Routes.md",
+    "Loading UI.md",
+    "Route Groups.md",
+    "Catch all Segments.md",
+    "Dynamic Routes.md",
+    "Nested Routes.md",
+    "File format.md",
+    "Not Found Page.md",
+    "Error Handling.md",
+    "Pasted image 20240719210156.png",
+    "Pasted image 20240719205306.png",
+    "Templates.md",
+    "Link Component Navigation.md",
+    "Navigating Programmatically.md",
+    "Pasted image 20240719125317.png",
+    "Layouts set up.md",
+    "Route Group Layout.md",
+    "Pasted image 20240719104853.png",
+    "Pasted image 20240719104517.png",
+    "Nested Layouts.md",
+    "Pasted image 20240719101655.png",
+    "Pasted image 20240715234752.png",
+    "Pasted image 20240715234434.png",
+    "File Colocation.md",
+    "notfound().md",
+    "Basic Routes.md",
+    "Pasted image 20240710175002.png",
+    "Pasted image 20240710174954.png",
+    "desktop.ini"
+  ]
+}

@@ -25,7 +25,7 @@ function SelectionSort(arr) {
             }
         }
         // Swap elements
-        if (minIndex !== i) {
+        if (minIndex != i) {
             let temp = arr[i];
             arr[i] = arr[minIndex];
             arr[minIndex] = temp;

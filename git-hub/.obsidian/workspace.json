@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topics.md",
-                "mode": "source",
+                "file": "git rebase.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9a663885ee4d1f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git cherry.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topics.md",
+                "file": "git cherry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topics.md",
+                "file": "git cherry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topics.md"
+                "file": "git cherry.md"
               }
             }
           }
@@ -147,19 +160,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "91e8a473763a008f",
+  "active": "d9a663885ee4d1f0",
   "lastOpenFiles": [
     "Topics.md",
+    "git revert.md",
+    "git rebase.md",
     "git merge.md",
     "git Init.md",
     "git commit.md",
     "git pull.md",
     "git stash.md",
     "git add.md",
-    "git rebase.md",
     "git branch.md",
     "Intro.md",
-    "git revert.md",
     "git cherry.md",
     "git tags.md",
     "git diff.md",

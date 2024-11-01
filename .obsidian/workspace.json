@@ -8,10 +8,10 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ed58b28c8984a937",
+            "id": "39df5732b254c7f0",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -118,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -140,8 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8825e3ef6a9b290",
+  "active": "39df5732b254c7f0",
   "lastOpenFiles": [
+    "obsidian_note-main/Shallow Copy.md",
+    "Nexr_js/Next.js.md",
     "Untitled 1.md",
     "Untitled.md"
   ]

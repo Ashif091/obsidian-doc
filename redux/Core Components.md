@@ -1,0 +1,7 @@
+1. **Store**: The Store is the central piece of a Redux application. It holds the state tree of our application. The state within the Store is immutable, meaning it cannot be changed directly. Instead, we dispatch actions to update the state.
+    
+2. **Actions**: Actions are plain JavaScript objects that represent what happened in our application. They are the only source of information for the Store. Actions must have a `type` property indicating the type of action being performed. we can also include additional data in the action object to provide information about what should change in the state.
+    
+3. **Reducers**: Reducers are pure functions that specify how the application's state changes in response to actions. Each reducer takes the previous state and an action as arguments and returns the new state. Reducers must be pure functions, meaning they produce the same output for the same input and have no side effects.
+    
+4. **Middleware (Optional)**: Middleware provides a third-party extension point between dispatching an action and the moment it reaches the reducer. Middleware can be used for logging, performing asynchronous tasks, routing, and more. Redux middleware is typically implemented using higher-order functions that wrap the store's `dispatch` function.

@@ -49,3 +49,15 @@ recursiveFibonacci(6)
 
 ```
 
+
+mycode 
+
+```js
+function fibonacci (n,arr = [0,1]){
+    let len  = arr.length 
+    if(len === n )return arr
+    arr.push(arr[len-1] + arr[len-2])
+     return fibonacci(n,arr)
+}
+console.log(fibonacci(6)) //[ 0, 1, 1, 2, 3, 5 ]
+```

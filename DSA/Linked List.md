@@ -28,3 +28,5 @@
 - [[Linked List Remove Value]]
 - [[Linked List Search]]
 - [[Linked List Reverse]]
+- [[dubbly linked list]]
+- 

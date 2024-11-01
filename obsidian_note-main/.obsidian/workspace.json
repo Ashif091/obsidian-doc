@@ -8,15 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9478ed7d661ec365",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "c76f1ddbefba662c",
+            "id": "48452977e0cd0aed",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -26,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "55b2432b9ddcdeeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Closure.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bc470c039ef2da26",
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Closure.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Closure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Closure.md"
+              }
             }
           }
         ]
@@ -151,13 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9478ed7d661ec365",
+  "active": "55b2432b9ddcdeeb",
   "lastOpenFiles": [
+    "promises.md",
+    "bind & call.md",
+    "event loop.md",
+    "Shallow Copy.md",
+    "Js.md",
     "slice().md",
     "methods.md",
-    "promises.md",
     "Object.assign().md",
-    "Js.md",
     "Event Listeners.md",
     "Inheritance.md",
     "shift().md",
@@ -187,9 +198,6 @@
     "Import Export Patterns type.md",
     "common JS.md",
     "Untitled 1.canvas",
-    "npm.md",
-    "Destructuring.md",
-    "Fs module.md",
     "nkzWYr2jBAA=/db/011832.ldb",
     "nkzWYr2jBAA=/db/010638.ldb",
     "nkzWYr2jBAA=/db/011767.ldb",

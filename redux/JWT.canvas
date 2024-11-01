@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"12b1f2595bf17add","type":"text","text":"athuraisation ","x":-460,"y":-260,"width":360,"height":60},
+		{"id":"aa21622658eb2f8a","type":"file","file":"Pasted image 20240515191226.png","x":-60,"y":-260,"width":880,"height":272},
+		{"id":"e6a4a3696bb60c0d","type":"file","file":"Pasted image 20240515191358.png","x":-780,"y":0,"width":640,"height":410}
+	],
+	"edges":[
+		{"id":"ac4b846ea45cfe71","fromNode":"12b1f2595bf17add","fromSide":"right","toNode":"aa21622658eb2f8a","toSide":"left"},
+		{"id":"7ef0527b9c8e5f03","fromNode":"aa21622658eb2f8a","fromSide":"bottom","toNode":"e6a4a3696bb60c0d","toSide":"right"}
+	]
+}

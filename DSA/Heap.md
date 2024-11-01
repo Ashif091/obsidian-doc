@@ -104,7 +104,7 @@ class MinHeap {
 		}
 	}
 	
-	printHeap() {
+			printHeap() {
 		var heap =` ${this.heap[0]} `
 		for(var i = 1; i<this.heap.length;i++) {
 			heap += ` ${this.heap[i]} `;
@@ -176,7 +176,7 @@ function heapSort(arr) {
         heapify(arr, n, i);
     }
 
-    // One by one extract an element from heap
+	// One by one extract an element from heap
     for (let i = n - 1; i > 0; i--) {
         // Move current root to end
         [arr[0], arr[i]] = [arr[i], arr[0]];

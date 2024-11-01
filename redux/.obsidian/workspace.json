@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "5a3086485f5fa38c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4feefcf151a0e4e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b74b1b7c31bc9bbc",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Counter App.canvas",
+                "viewState": {
+                  "x": 617.1362777776471,
+                  "y": 16.421540530979144,
+                  "zoom": -1.159660956758129
+                }
+              }
+            }
+          },
+          {
+            "id": "6c2173198372038a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Counter App.canvas",
+                "viewState": {
+                  "x": 653.0690254300205,
+                  "y": -78.05140561716638,
+                  "zoom": -1.4929942900914623
+                }
+              }
+            }
+          },
+          {
+            "id": "89da03069bb7696e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Counter App.canvas",
+                "viewState": {
+                  "x": 970,
+                  "y": -230,
+                  "zoom": -1.8263276234247956
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e5b9dda38dce34f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6306e4acef70feff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d135935174e4b29",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fed6dafceb65797e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "20d1db4a84912bc0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "be453b24377899c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "949eee7836236bef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93811fe821242afd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Counter App.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4a8c093e6e33bec6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Counter App.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cfd76b6ebadc2967",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a2efcbaefe281365",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Counter App.canvas"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b74b1b7c31bc9bbc",
+  "lastOpenFiles": [
+    "Intro.md",
+    "Flux.md",
+    "Counter App.canvas",
+    "JWT.canvas",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "Concurrent Mode.md",
+    "combineReducers.md",
+    "bindActionCreators.md",
+    "Pasted image 20240515191358.png",
+    "Pasted image 20240515190850.png",
+    "Pasted image 20240514150037.png",
+    "React-Redux.md",
+    "Render props.md",
+    "Redux Thunk.md",
+    "Redux Saga.md",
+    "Immer.md",
+    "Core Components.md",
+    "Core Principles.md",
+    "Redux-Toolkit.md",
+    "custom hook.md",
+    "lifeCyle method in functional component.md",
+    "useCallback.md",
+    "createAsyncThunk.md",
+    "Thunk Set-Up.md",
+    "createAsyncThunk set-Up.md",
+    "Pasted image 20240515191226.png",
+    "Pasted image 20240514150042.png",
+    "desktop.ini",
+    "React-Redux.pdf"
+  ]
+}
